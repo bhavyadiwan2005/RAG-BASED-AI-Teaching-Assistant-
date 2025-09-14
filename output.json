@@ -1,0 +1,59 @@
+{
+  "total_audios": 9,
+  "audio_files": [
+    {
+      "audio_number": 1,
+      "title": "C Language in 9 Minutes (in Hindi) 🔥",
+      "filename": "C Language in 9 Minutes (in Hindi) 🔥.mp3",
+      "json_file": "C Language in 9 Minutes (in Hindi) 🔥.json"
+    },
+    {
+      "audio_number": 2,
+      "title": "C++ in 5 Minutes 🔥",
+      "filename": "C++ in 5 Minutes 🔥.mp3",
+      "json_file": "C++ in 5 Minutes 🔥.json"
+    },
+    {
+      "audio_number": 3,
+      "title": "CSS in 7 Minutes 🔥",
+      "filename": "CSS in 7 Minutes 🔥.mp3",
+      "json_file": "CSS in 7 Minutes 🔥.json"
+    },
+    {
+      "audio_number": 4,
+      "title": "HTML in 9 Minutes (in Hindi) 🌐",
+      "filename": "HTML in 9 Minutes (in Hindi) 🌐.mp3",
+      "json_file": "HTML in 9 Minutes (in Hindi) 🌐.json"
+    },
+    {
+      "audio_number": 5,
+      "title": "Java in 7 Minutes 🔥",
+      "filename": "Java in 7 Minutes 🔥.mp3",
+      "json_file": "Java in 7 Minutes 🔥.json"
+    },
+    {
+      "audio_number": 6,
+      "title": "JavaScript in 8 Minutes 👩‍💻",
+      "filename": "JavaScript in 8 Minutes 👩‍💻.mp3",
+      "json_file": "JavaScript in 8 Minutes 👩‍💻.json"
+    },
+    {
+      "audio_number": 7,
+      "title": "Learn to Push Your Code to GitHub in 10 Minutes (Beginner Video) 🔥",
+      "filename": "Learn to Push Your Code to GitHub in 10 Minutes (Beginner Video) 🔥.mp3",
+      "json_file": "Learn to Push Your Code to GitHub in 10 Minutes (Beginner Video) 🔥.json"
+    },
+    {
+      "audio_number": 8,
+      "title": "Neural Networks Explained in 5 minutes",
+      "filename": "Neural Networks Explained in 5 minutes.mp3",
+      "json_file": "Neural Networks Explained in 5 minutes.json"
+    },
+    {
+      "audio_number": 9,
+      "title": "Python in 8 Minutes (in Hindi) 🐍",
+      "filename": "Python in 8 Minutes (in Hindi) 🐍.mp3",
+      "json_file": "Python in 8 Minutes (in Hindi) 🐍.json"
+    }
+  ]
+}
